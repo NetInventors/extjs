@@ -1,0 +1,19 @@
+{
+    "name": "ni-jmatthiesen/extjs",
+    "description": "Sencha ExtJS",
+    "type": "component",
+    "homepage": "http://www.sencha.com/products/extjs/",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "locale/**",
+                "plugins/**",
+                "resources/**",
+                "*.js"
+            ]
+        }
+    }
+}
