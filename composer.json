@@ -9,10 +9,8 @@
     "extra": {
         "component": {
             "files": [
-                "locale/**",
-                "plugins/**",
-                "resources/**",
-                "*.js"
+                "build/packages/**",
+                "build/*.js"
             ]
         }
     }
